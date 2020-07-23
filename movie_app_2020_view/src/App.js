@@ -16,7 +16,6 @@ const foodLike = [
   },
   {
     name: "Bibimbap"
-  
   },
   {
     name: "Doncasu"   
